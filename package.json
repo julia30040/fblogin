@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "fblogin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,13 +36,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/julia30040/julia30040.github.io.git"
+    "url": "git+https://github.com/julia30040/fblogin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julia30040/julia30040.github.io/issues"
+    "url": "https://github.com/julia30040/fblogin/issues"
   },
-  "homepage": "https://julia30040.github.io/julia30040.github.io"
+  "homepage": "https://julia30040.github.io/fblogin"
 }
