@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/fblogin/static/js/2.9dd76786.chunk.js"
   },
   {
-    "revision": "4a8ea9d370905490c51011d6103c066b",
+    "revision": "859d275b62074d0d006363ed14253528",
     "url": "/fblogin/index.html"
   }
 ];
